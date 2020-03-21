@@ -1,1 +1,1 @@
-# fast.ai
+# [fast.ai course](https://course.fast.ai/)
